@@ -23,10 +23,10 @@
 		        **/config/*,
 			**/constant/*,
 			**/exception/*
+		</sonar.coverage.exclusions>
 		<sonar.host.url> http://104.155.178.60:9000</sonar.host.url>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>admin123</sonar.password>
-		</sonar.coverage.exclusions>
 	</properties>
 
 	<dependencies>
